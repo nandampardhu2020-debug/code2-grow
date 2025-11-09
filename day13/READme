@@ -1,0 +1,1 @@
+It should calculate bus fares for multiple passengers based on distance, age, and time of travel (peak or non-peak). The fare rules should vary dynamically, and students must apply multiple conditional checks and loops to compute total fare and generate a summary report.
